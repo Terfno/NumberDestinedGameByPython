@@ -1,0 +1,2 @@
+# NumberDestinedGameByPython
+Pythonで数あてゲーム
